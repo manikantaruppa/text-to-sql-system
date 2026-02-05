@@ -91,8 +91,7 @@ Frontend runs at `http://localhost:3005`.
 - See `test_queries.md` for ready-to-run demo questions and expected SQL.
 
 **Status**
-- Current status: `PROJECT_STATUS.md` (last update: Feb 4, 2026)
-- Gaps and roadmap: `ACTION_ITEMS.md`, `NEXT_EXECUTION.md`
+- Current status and roadmap are maintained internally.
 
 **Repository Layout**
 - `text-to-sql-system/backend` FastAPI backend
