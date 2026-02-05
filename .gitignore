@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.venv
+text2sql_env/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+
+node_modules/
+.next/
+dist/
+build/
+coverage/
+assets/*.mov
+Screen Recording*.mov
